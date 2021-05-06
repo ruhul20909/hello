@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ruhulamin</title>
+
+<link rel="stylesheet" type="text/css" href="logo.css">
+<link rel="stylesheet"type="text/css" href="laptop.css" media="screen and (min-width:992px) ">
+
+
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+</head>
+
+
+
+<body>
+
+<div class="navbar">
+
+
+<div class="nav-logo col-2" >
+<img class="logo" src="logo.jpg" alt="logo">
+
+
+</div>
+<div class="log">
+
+</div>
+
+<div class="hadding col-4">
+<h1>Ruhul Amin</h1>
+
+</div>
+
+
+
+<div class="nav-manu col-6 ">
+<a href="#" >HOME</a>
+<a href="#" >CONTECT </a>
+<a href="#" >ABOUT ME</a>
+<a href="#" >SKILL </a>
+
+</div>
+
+
+</div>
+<div class ="body">
+
+<div class="pr">
+<img class="piclog" src="new.jpg">
+
+
+</div>
+
+
+
+<div class="int">
+
+<b>A web developer builds websites and applications with the help of coding. At present there is a lot of demand for this profession at home and abroad.</b>
+
+
+
+<h1>A web developer at</h1>
+
+
+<span class="b"> a glance
+General Title</span>: Web Developer<br>
+<span class="b">Category</span>: Information Technology<br>
+<span class="b">Type of organization</span>: government, private, private firm / company<br>
+<span class="b">Career type</span>: full-time, part-time<br>
+<span class="b">Level</span>: Entry, Mid, Top<br>
+<span class="b">Possible experience limit at entry level</span>: 0 - 2 years<br>
+<span class="b">Possible average salary at entry level</span>: ৳ 25,000 -  35,000<br>
+<span class="b">Possible age limit at entry level</span>:Institutional<br>
+
+</p>
+</div>
+
+
+
+</div>
+
+<div class="back">
+<div class="me" > About me</div>
+
+
+ <img class="pic"src="M.jpg">
+
+<h3>HELLO EVERYBODY,</h3>
+<h5>I am new web developer.I came here to teach you something and to learn something from you. I hope you will be by my side</h5>
+
+
+
+<hr>
+
+
+
+
+</div>
+
+ 
+
+
+
+
+
+</body>
+</html>
